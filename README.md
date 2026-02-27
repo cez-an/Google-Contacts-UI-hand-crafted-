@@ -1,19 +1,13 @@
-Google Contacts UI – Built From Scratch
+## Google Contacts UI – Built From Scratch
 
 This project is a pixel-perfect Google Contacts UI clone built entirely from scratch using React and Tailwind CSS — without AI-generated code, templates, or UI libraries.
-
 The goal of this project is to strengthen core frontend engineering skills by focusing on:
 
 Clean and scalable component architecture
-
 Reusable UI components
-
 Proper state management
-
 Responsive design implementation
-
 Structured folder organization
-
 Maintainable and readable code
 
 This project reflects strong frontend fundamentals and hands-on UI recreation skills.
