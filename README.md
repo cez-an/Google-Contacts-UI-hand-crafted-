@@ -18,4 +18,3 @@ This project reflects strong frontend fundamentals and hands-on UI recreation sk
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vite](https://img.shields.io/badge/Vite-1E1E2F?style=for-the-badge&logo=vite&logoColor=646CFF)
->>>>>>> 060e6f2047c0125e2ac727a3089ada6765d88216
